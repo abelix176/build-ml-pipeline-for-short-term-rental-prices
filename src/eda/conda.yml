@@ -10,4 +10,5 @@ dependencies:
       - seaborn
       - pandas
       - pandas-profiling
+      - ydata-profiling
       - pyarrow
