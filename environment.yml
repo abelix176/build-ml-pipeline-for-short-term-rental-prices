@@ -6,12 +6,12 @@ dependencies:
   - cookiecutter
   - hydra-core
   - git
+  - ipython
+  - notebook
+  - jupyterlab
   - pip
   - pip:
       - wandb
       - mlflow
-      - ipython
-      - notebook
-      - jupyterlab
       - matplotlib
       - pandas

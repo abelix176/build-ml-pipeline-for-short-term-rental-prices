@@ -6,8 +6,3 @@ dependencies:
   - pip
   - pip:
       - wandb
-      - mlflow
-      - scikit-learn
-      - matplotlib
-      - pillow
-      - pandas
