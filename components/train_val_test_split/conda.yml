@@ -9,4 +9,4 @@ dependencies:
   - pip:
       - wandb==0.13.2
       - requests
-      - git+https://github.com/abelix176/nd0821-c3-starter-code#egg=wandb-utils&subdirectory=components
+      - git+https://github.com/abelix176/build-ml-pipeline-for-short-term-rental-prices#egg=wandb-utils&subdirectory=components
